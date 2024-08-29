@@ -8,6 +8,6 @@ Technologies Used: Proteus, Arduino, PIR Sensor, TMP36 Temperature Sensor, Relay
 
 
 Key Features:
-Simulated automated appliance control based on temperature and presence detection.
-Focused on energy-efficient operation.
-Real-time sensor integration and control within a virtual environment.
+-Simulated automated appliance control based on temperature and presence detection.
+-Focused on energy-efficient operation.
+-Real-time sensor integration and control within a virtual environment.
