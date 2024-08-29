@@ -11,8 +11,8 @@ A home automation system on Proteus using Arduino, a relay, a PIR sensor, and a 
 - LM35 Temperature Sensor: Monitors the ambient temperature.
 - Relay Module: Acts as a switch to control the appliances based on sensor inputs.
 
+![Description of the Image](https://drive.google.com/uc?export=download&id=1LecIwKjJiUcqs8Ip4aG70_SGCBhPP1CP)
 
-![automata](https://drive.google.com/file/d/1LecIwKjJiUcqs8Ip4aG70_SGCBhPP1CP/view?usp=sharing)
 
 # Key Features
 
