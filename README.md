@@ -2,7 +2,7 @@
 
 A home automation system on Proteus using Arduino, a relay, a PIR sensor, and a temperature sensor. The system controls appliances by turning them on when the temperature exceeds 20°C and the PIR sensor detects a person's presence. This project emphasizes energy efficiency by ensuring appliances operate only when required.
 
-Technologies Used: Proteus, Arduino, PIR Sensor, TMP36 Temperature Sensor, Relay Module.
+
 
 # Technologies Used
 - Proteus: Simulation environment for designing and testing the home automation system.
@@ -11,6 +11,8 @@ Technologies Used: Proteus, Arduino, PIR Sensor, TMP36 Temperature Sensor, Relay
 - LM35 Temperature Sensor: Monitors the ambient temperature.
 - Relay Module: Acts as a switch to control the appliances based on sensor inputs.
 
+
+![automata](https://drive.google.com/file/d/1LecIwKjJiUcqs8Ip4aG70_SGCBhPP1CP/view?usp=sharing)
 
 # Key Features
 
